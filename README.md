@@ -13,6 +13,7 @@ Executado via Terminal e via IDE
 ##### > C# com PowerShell
 ##### > C# com Visual Studio Code
 ##### > NoSql Mongo Data Base com MongoDB Driver
+##### > Postman
 
 
 *Não deixe de visitar o autor original [Gabriel Faraday](https://github.com/gabrielfbarros), deste conteúdo, que por mim foi modificado.*
